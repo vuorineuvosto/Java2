@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ysi</string>
+    <string-array name="aukiolo">
+        <item>one</item>
+        <item>two</item>
+    </string-array>
+</resources>
